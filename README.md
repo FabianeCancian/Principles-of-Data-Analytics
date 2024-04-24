@@ -28,7 +28,7 @@ Select two variables from the data set and provide an analysis of how correlated
 Ensure your repository is tidy, with no unnecessary items. Ensure your README.md and .gitignore files are appropriate. Make sure your notebook contains a single cohesive narrative about the data set.
 
 # References:
-- [Project Description] (https://ianmcloughlin.github.io/2324_principles_of_data_analytics/)
-- [Finding the variable types] (https://www.w3schools.com/python/pandas/ref_df_dtypes.asp)
-- [Plot Histograms using matplotlib] (https://matplotlib.org/stable/gallery/statistics/hist.html#histograms)
-- [Plot bar charts using seanborn] (https://seaborn.pydata.org/generated/seaborn.barplot.html)
+- [Project Description](https://ianmcloughlin.github.io/2324_principles_of_data_analytics/)
+- [Finding the variable types](https://www.w3schools.com/python/pandas/ref_df_dtypes.asp)
+- [Plot Histograms using matplotlib](https://matplotlib.org/stable/gallery/statistics/hist.html#histograms)
+- [Plot bar charts using seanborn](https://seaborn.pydata.org/generated/seaborn.barplot.html)
