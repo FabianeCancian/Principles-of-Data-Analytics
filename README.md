@@ -32,3 +32,4 @@ Ensure your repository is tidy, with no unnecessary items. Ensure your README.md
 - [Finding the variable types](https://www.w3schools.com/python/pandas/ref_df_dtypes.asp)
 - [Plot Histograms using matplotlib](https://matplotlib.org/stable/gallery/statistics/hist.html#histograms)
 - [Plot bar charts using seanborn](https://seaborn.pydata.org/generated/seaborn.barplot.html)
+- [Removing NaN from the dataset](https://www.statology.org/numpy-remove-nan/)
