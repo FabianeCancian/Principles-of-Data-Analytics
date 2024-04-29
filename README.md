@@ -33,3 +33,5 @@ Ensure your repository is tidy, with no unnecessary items. Ensure your README.md
 - [Plot Histograms using matplotlib](https://matplotlib.org/stable/gallery/statistics/hist.html#histograms)
 - [Plot bar charts using seanborn](https://seaborn.pydata.org/generated/seaborn.barplot.html)
 - [Removing NaN from the dataset](https://www.statology.org/numpy-remove-nan/)
+- [Python data types](https://www.w3schools.com/python/python_datatypes.asp)
+- [Numpy Object](https://numpy.org/devdocs/reference/arrays.scalars.html#numpy.object_)
